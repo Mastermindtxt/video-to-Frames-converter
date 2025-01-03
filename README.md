@@ -33,7 +33,7 @@ python /FRAMES-EXTRCTOR/frames-graber.py
 > [!NOTE]
 > *so now if any error occurred the just use this oneshot code written below.*
 ```
-apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd FRAMES-EXTRCTOR/ && chmod +x * && python frames-extractor.py
+apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && python frames-extractor.py
 
 ```
 
