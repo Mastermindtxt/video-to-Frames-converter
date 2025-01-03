@@ -31,6 +31,10 @@ python /FRAMES-EXTRCTOR/frames-graber.py
 
 ```
 > [!NOTE]
-> **
+> *so now if any error occurred the just use this oneshot code written below.*
+```
+apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone +            - && cd FRAMES-EXTRCTOR/ && chmod +x * && python frames-extractor.py
+
+```
 
 ool open source python script which makes Frames. 
