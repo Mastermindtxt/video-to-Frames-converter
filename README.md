@@ -20,5 +20,17 @@ curl -sSL https://raw.githubusercontent.com/some-valid-user/some-valid-repo/main
 > 5. **Copy the path of the The file you extracted**
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
 
+> 6. **Now move in storage directory if not yet** (optional)
+```
+cd /storage/emulated/0/
 
-A cool open source python script which makes Frames. 
+```
+> 7. **Now lets run the program.**
+```
+python /FRAMES-EXTRCTOR/frames-graber.py
+
+```
+> [!NOTE]
+> **
+
+ool open source python script which makes Frames. 
