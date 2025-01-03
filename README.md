@@ -27,7 +27,7 @@ cd /storage/emulated/0/
 ```
 > 7. **Now lets run the program.**
 ```
-python /FRAMES-EXTRCTOR/frames-graber.py
+python /video-to-Frames-converter/frames-graber.py
 
 ```
 > [!NOTE]
@@ -36,5 +36,7 @@ python /FRAMES-EXTRCTOR/frames-graber.py
 apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && python frames-extractor.py
 
 ```
+### ENJOY 😇
+<img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/vedio-to-frames.jpg">
 
 ool open source python script which makes Frames. 
