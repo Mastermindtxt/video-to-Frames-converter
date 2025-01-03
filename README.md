@@ -13,7 +13,7 @@
 >  `such as (/sdcard/) or (/storage/emulated/0/)`.
 > 3. **Now download Nessesary requirements.**
 ```
-curl -sSL https://raw.githubusercontent.com/some-valid-user/some-valid-repo/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ Mastermindtxt/video-to-Frames-converter/main/install.sh | bash
 
 ```
 > 4. **Now the required things are installed**
