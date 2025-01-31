@@ -4,7 +4,7 @@ sleep 2
 # Function to check and install FFmpeg if missing
 install_ffmpeg() {
     if ! command -v ffmpeg &> /dev/null; then
-        echo -e "\e[1;31mFFmpeg is not installed. Installing now...\e[0m"
+        echo -e "\e[1;31mRequirements are not installed. Installing now...\e[0m"
         
         # Determine OS type and install accordingly
         if [[ "$OSTYPE" == "linux-android"* ]]; then
@@ -23,9 +23,9 @@ install_ffmpeg() {
             exit 1
         fi
 
-        echo -e "\e[1;32mFFmpeg installed successfully!\e[0m"
+        echo -e "\e[1;32mRequirements installed successfully!\e[0m"
     else
-        echo -e "\e[1;32mFFmpeg is already installed!\e[0m"
+        echo -e "\e[1;32mrequirements is already installed!\e[0m"
     fi
 }
 
