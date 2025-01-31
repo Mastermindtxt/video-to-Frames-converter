@@ -15,7 +15,7 @@ curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-conver
 ```
 > 3. **Now use the oneshot command written blow**
 ```
-curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-converter/main/FRAM-EXTRACTOR.sh | bash
+curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-converter/main/FRAME-EXTRACTOR.sh | bash
 
 ```
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
