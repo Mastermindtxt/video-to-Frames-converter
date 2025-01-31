@@ -29,7 +29,7 @@ cd /storage/emulated/0/
 > [!NOTE]
 > *so now if any error occurred the just use this oneshot code written below.*
 ```
-apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && ./FRAM-EXTRACTOR.sh
+pkg install git -y && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && ./FRAME-EXTRACTOR-1.0.3.sh
 
 ```
 ### ENJOY 😇
