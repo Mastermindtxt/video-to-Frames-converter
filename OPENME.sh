@@ -9,7 +9,7 @@ echo -e "\e[1;32m$ I am MASTERMIND (Fusion_spirite) \e[0m"
 echo ""
 echo -e "\e[1;32m$ If you are having trouble then contact me  \e[0m"
 echo -e "\e[1;32m$→Telegram = t.me/Fusion_Spirite\e[0m"
-echo -e "\e[1;32m$→Telegram group = https://t.me/Omniversal_creations_chat"
+echo -e "\e[1;32m$→Telegram group = https://t.me/Omniversal_creations_chat\e[0m"
 
 echo ""
 echo -e "\e[1;34m==================================\e[0m"
