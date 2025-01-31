@@ -4,20 +4,20 @@
 ---
 ## An open source project
 > 1. For frames extraction.
-> 2. For audio extraction to.
+> 2. For audio extraction.
 
 ---
 ### Now lets SETUP. 
-> 1. **Download the Main (ZIP) file from** [Release_section]()
-> 2. **Extract the downloaded file in Main storage.**
->  `such as (/sdcard/) or (/storage/emulated/0/)`.
-> 3. **Now download Nessesary requirements.**
+> 1. **For manual and step by step guide check**
 ```
-curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-converter/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-converter/main/OPENME.sh | bash
 
 ```
-> 4. **Now the required things are installed**
-> 5. **Copy the path of the The file you extracted**
+> 3. **Now use the oneshot command written blow**
+```
+curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-converter/main/FRAM-EXTRACTOR.sh | bash
+
+```
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
 
 > 6. **Now move in storage directory if not yet** (optional)
@@ -25,18 +25,14 @@ curl -sSL https://raw.githubusercontent.com/Mastermindtxt/video-to-Frames-conver
 cd /storage/emulated/0/
 
 ```
-> 7. **Now lets run the program.**
-```
-python /video-to-Frames-converter/frames-graber.py
 
-```
 > [!NOTE]
 > *so now if any error occurred the just use this oneshot code written below.*
 ```
-apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && python frames-extractor.py
+apt install git python -y && pip install ffmpeg && apt install ffmpeg && git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video-to-Frames-converter/ && chmod +x * && ./FRAM-EXTRACTOR.sh
 
 ```
 ### ENJOY 😇
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/vedio-to-frames.jpg">
 
-ool open source python script which makes Frames. 
+cool open source python script which makes Frames. 
