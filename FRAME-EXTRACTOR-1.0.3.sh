@@ -71,7 +71,7 @@ sleep 1
 case $choice in
     1)
         echo -e "\e[1;34mExtracting frames...\e[0m"
-        ffmpeg -i "$input_video" -vf "scale=${width}:${height},fps=${fps}" -q:v "$quality" "$output_frames/frame_%04d.jpg"
+        ffmpeg -i "$input_video" -vf "scale=${width}:${height},fps=${fps}" -q:v "$quality" "$output_frames/%04d.jpg"
         echo -e "\e[1;32mFrames extracted successfully!\e[0m"
         ;;
     2)
@@ -81,7 +81,7 @@ case $choice in
         ;;
     3)
         echo -e "\e[1;34mExtracting frames and audio...\e[0m"
-        ffmpeg -i "$input_video" -vf "scale=${width}:${height},fps=${fps}" -q:v "$quality" "$output_frames/frame_%04d.jpg"
+        ffmpeg -i "$input_video" -vf "scale=${width}:${height},fps=${fps}" -q:v "$quality" "$output_frames/%04d.jpg"
         ffmpeg -i "$input_video" -q:a 0 -map a "$output_audio"
         echo -e "\e[1;32mFrames and audio extracted successfully!\e[0m"
         ;;
