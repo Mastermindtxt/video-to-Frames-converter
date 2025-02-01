@@ -14,7 +14,7 @@ echo -e "\e[1;32m$→Telegram group = https://t.me/Omniversal_creations_chat\e[0
 echo ""
 echo -e "\e[1;34m==================================\e[0m"
 echo -e "\e[1;32m× If you dont know how to use extractor. \e[0m"
-echo -e "\e[1;32m× Watch this : "
+echo -e "\e[1;32m× Watch this : https://t.me/bootanimation_with_roxy/665"
 echo -e "\e[1;34m==================================\e[0m"
 
 echo ""
