@@ -20,11 +20,6 @@ git clone https://github.com/Mastermindtxt/video-to-Frames-converter && cd video
 ```
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/mastermind.png">
 
-> 6. **Now move in storage directory if not yet** (optional)
-```
-cd /storage/emulated/0/
-
-```
 
 > [!NOTE]
 > *so now if any error occurred the just use this oneshot code written below.*
