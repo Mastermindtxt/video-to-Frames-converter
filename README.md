@@ -30,4 +30,4 @@ pkg install git -y && git clone https://github.com/Mastermindtxt/video-to-Frames
 ### ENJOY 😇
 <img src="https://github.com/Mastermindtxt/Mastermindtxt/blob/main/Galery/vedio-to-frames.jpg">
 
-cool open source python script which makes Frames. 
+cool open source python and shell script which makes Frames. 
